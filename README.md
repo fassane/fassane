@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Assane
-- 👀 I’m interested in  React, React native
+- 👀 I’m interested in React native, Angular
 - 🌱 I’m currently learning  React, React native, Laravel, angular
 - 💞️ I’m looking to collaborate on React and Laravel projects
 - 📫 How to reach me on fassanebolly@gmail.com
