@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Assane
-- 👀 I’m interested in React native, Angular
+- 👀 I’m interested by React native, Angular, Spring boot
 - 🌱 I’m currently learning  React, React native, Laravel, angular
-- 💞️ I’m looking to collaborate on React and Laravel projects
+- 💞️ I’m looking to collaborate on React, Angular and Spring boot projects
 - 📫 How to reach me on fassanebolly@gmail.com
 
 <!---
