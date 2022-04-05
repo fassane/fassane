@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Assane
+- 👋 Hi, I’m Hassan
 - 👀 I’m interested by React native, Angular, Spring boot
 - 🌱 I’m currently learning  React, React native, Laravel, angular
 - 💞️ I’m looking to collaborate on React, Angular and Spring boot projects
