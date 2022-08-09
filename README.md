@@ -24,6 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a href="https://www.gimp.org/docs/" target="blank"><img align="center" src="https://i.pinimg.com/236x/5a/31/92/5a3192d3796828fbe06dc004350df769.jpg" alt="linux" height="40" width="40" /></a>
 <a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="html" height="40" width="40" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css" height="40" width="40" /></a>
 <a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" height="40" width="40" /></a>
