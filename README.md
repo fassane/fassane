@@ -24,12 +24,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.gimp.org/docs/" target="blank"><img align="center" src="https://i.pinimg.com/236x/5a/31/92/5a3192d3796828fbe06dc004350df769.jpg" alt="linux" height="40" width="40" /></a>
 <a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="html" height="40" width="40" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css" height="40" width="40" /></a>
 <a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" height="40" width="40" /></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111420.png" alt="git" height="40" width="40" /></a>
 <a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="https://laravel.com/img/logomark.min.svg" alt="laravel" height="40" width="40" /></a>
+<a href="https://www.gimp.org/docs/" target="blank"><img align="center" src="https://i.pinimg.com/236x/5a/31/92/5a3192d3796828fbe06dc004350df769.jpg" alt="gimp" height="40" width="40" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" height="40" width="40" /></a>
 <a href="https://reactjs.org" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/1183/premium/1183672.png?token=exp=1660063053~hmac=dd076e1470ccc541d9d982cdf84c88ac" alt="reactjs" height="40" width="40" /></a>
 <a href="https://reactnative.dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/919/919851.png" alt="react-native" height="40" width="40" /></a>
