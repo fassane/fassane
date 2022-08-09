@@ -25,11 +25,21 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="html" height="40" width="40" /></a>
-<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/90392006/183703375-2edc803a-2463-4fd2-9fa6-c39f5edae9bd.png)" alt="css" height="40" width="40" /></a>
+<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="bootstrap" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="git" height="40" width="40" /></a>
 <a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="https://laravel.com/img/logomark.min.svg" alt="laravel" height="40" width="40" /></a>
-<a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="" alt="bolly hassan" height="40" width="40" /></a>
-<a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="" alt="bolly hassan" height="40" width="40" /></a>
-<a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="" alt="bolly hassan" height="40" width="40" /></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" height="40" width="40" /></a>
+<a href="https://reactjs.org" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/1183/premium/1183672.png?token=exp=1660063053~hmac=dd076e1470ccc541d9d982cdf84c88ac" alt="reactjs" height="40" width="40" /></a>
+<a href="https://reactnative.dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/919/919851.png" alt="react-native" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="angular" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="nodejs" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="wordpress" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="java" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="springboot" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="kotlin" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="android-studio" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="linux" height="40" width="40" /></a>
   
 
 <!---
