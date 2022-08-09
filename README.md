@@ -1,9 +1,9 @@
 ![HeaderImage](https://visme.co/blog/wp-content/uploads/2021/05/presentation-design-header.png)
 
 <h1 align="center">Hi 👋, I’m Hassan</h1>
-<h3 align="center"> 👀 I’m interested by React native, Angular, Spring boot</h3>
-<h3 align="center"> 🌱 I’m currently learning  React, React native, Laravel, angular</h3>
-<h3 align="center"> 💞️ I’m looking to collaborate on React, Angular and Spring boot projects</h3>
+<h3 align="center"> 🌱 I’m currently learning `Angular`, `Spring boot`</h3>
+<h3 align="center"> 👀 I’m interested by `React`, `React native`, `Laravel`</h3>
+<h3 align="center"> 💞️ I’m looking to collaborate on **Angular and Spring boot** projects</h3>
 <h3 align="center"> 📫 How to reach me on fassanebolly@gmail.com</h3>
 
 <!---
