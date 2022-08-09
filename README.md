@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I’m Hassan</h1>
 <h3 align="center">A junior Full-Stack developper from Ouagadougou</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+[GitHub Profile Views Counter]: https://github.com/fassane/github-profile-views-counter 
 
 - I’m currently 🌱 learning **Angular**, **Spring boot**.
 
