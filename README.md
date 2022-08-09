@@ -4,6 +4,7 @@
 <h3 align="center">A junior Full-Stack developper from Ouagadougou</h3>
 
 <br/>
+<hr/>
 
 - I’m currently 🌱 learning **Angular**, **Spring boot**.
 
