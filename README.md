@@ -1,5 +1,7 @@
 ![HeaderImage](https://user.oc-static.com/upload/2021/01/19/16110458304926_P2C3-1%20Re%CC%81utilisez%20vos%20composants%20avec%20les%20props.png)
 
+<h1 align="center"> <img src="https://user.oc-static.com/upload/2021/01/19/16110458304926_P2C3-1%20Re%CC%81utilisez%20vos%20composants%20avec%20les%20props.png" alt="HeaderImage" /> </h1>
+
 <h1 align="center">Hi 👋, I’m Hassan</h1>
 <h3 align="center">A junior Full-Stack developper</h3>
 
