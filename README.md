@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I’m Hassan</h1>
 <h3 align="center">A junior Full-Stack developper from Ouagadougou</h3>
 
-[GitHub Profile Views Counter]: https://github.com/fassane/github-profile-views-counter 
+<br/>
 
 - I’m currently 🌱 learning **Angular**, **Spring boot**.
 
