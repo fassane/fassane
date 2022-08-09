@@ -22,6 +22,16 @@
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="bolly hassan" height="40" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="html" height="40" width="40" /></a>
+<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/90392006/183703375-2edc803a-2463-4fd2-9fa6-c39f5edae9bd.png)" alt="css" height="40" width="40" /></a>
+<a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="https://laravel.com/img/logomark.min.svg" alt="laravel" height="40" width="40" /></a>
+<a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="" alt="bolly hassan" height="40" width="40" /></a>
+<a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="" alt="bolly hassan" height="40" width="40" /></a>
+<a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="" alt="bolly hassan" height="40" width="40" /></a>
+  
+
 <!---
 fassane/fassane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
