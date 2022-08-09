@@ -27,7 +27,7 @@
 <a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="html" height="40" width="40" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css" height="40" width="40" /></a>
 <a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" height="40" width="40" /></a>
-<a href="https://git-scm.com/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494740.png?token=exp=1660063281~hmac=c38fe85d43ce92e358a6ab9dcc02e9cc" alt="git" height="40" width="40" /></a>
+<a href="https://git-scm.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111420.png" alt="git" height="40" width="40" /></a>
 <a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="https://laravel.com/img/logomark.min.svg" alt="laravel" height="40" width="40" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" height="40" width="40" /></a>
 <a href="https://reactjs.org" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/1183/premium/1183672.png?token=exp=1660063053~hmac=dd076e1470ccc541d9d982cdf84c88ac" alt="reactjs" height="40" width="40" /></a>
