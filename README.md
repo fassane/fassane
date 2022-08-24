@@ -34,7 +34,7 @@
 <a href="https://nodejs.org/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="nodejs" height="40" width="40" /></a>
 <a href="https://wordpress.com/fr/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174881.png" alt="wordpress" height="40" width="40" /></a>
 <a href="https://docs.oracle.com/en/java/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="java" height="40" width="40" /></a>
-<a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="https://i.pinimg.com/564x/a5/18/7c/a5187cae96d253e88db6866708b6fbe0.jpg" alt="springboot" height="40" width="100" /></a>
+<a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="https://i.pinimg.com/564x/a5/18/7c/a5187cae96d253e88db6866708b6fbe0.jpg" alt="springboot" height="40" width="120" /></a>
 <a href="https://developer.android.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5969/5969010.png" alt="android-studio" height="40" width="40" /></a>
 <a href="https://ubuntu.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" alt="linux" height="40" width="40" /></a>
   
