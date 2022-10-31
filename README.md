@@ -21,8 +21,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="./github_images/" alt="html" height="40" width="40" /></a>
-<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="./github_images/" alt="css" height="40" width="40" /></a>
+<a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="./github_images/svg/html.svg" alt="html" height="40" width="40" /></a>
+<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="./github_images/svg/css3.svg" alt="css" height="40" width="40" /></a>
 <a href="https://getbootstrap.com/" target="blank"><img align="center" src="./github_images/" alt="bootstrap" height="40" width="40" /></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="./github_images/" alt="git" height="40" width="40" /></a>
 <a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="./github_images/" alt="laravel" height="40" width="40" /></a>
