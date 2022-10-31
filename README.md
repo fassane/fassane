@@ -15,8 +15,8 @@
 
 <h3 align="left">Social networks:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bolly-hassan-917581224/" target="blank"><img align="center" src="./github_images/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="" target="blank"><img align="center" src="./github_images/discord.svg" alt="discord" height="40" width="40" /></a> 
+<a href="https://www.linkedin.com/in/bolly-hassan-917581224/" target="blank"><img align="center" src="./github_images/svg/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="./github_images/svg/discord.svg" alt="discord" height="40" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +27,7 @@
 <a href="https://git-scm.com/" target="blank"><img align="center" src="./github_images/svg/git.svg" alt="git" height="40" width="40" /></a>
 <a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="./github_images/svg/laravel.svg" alt="laravel" height="40" width="40" /></a>
 <a href="https://www.gimp.org/docs/" target="blank"><img align="center" src="./github_images/svg/gimp.svg" alt="gimp" height="40" width="40" /></a>
-<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="blank"><img align="center" src="./github_images/svg/" alt="javascript" height="40" width="40" /></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="blank"><img align="center" src="./github_images/svg/js.svg" alt="javascript" height="40" width="40" /></a>
 <a href="https://reactjs.org" target="blank"><img align="center" src="./github_images/svg/react.svg" alt="reactjs" height="40" width="40" /></a>
 <a href="https://reactnative.dev" target="blank"><img align="center" src="./github_images/svg/reactts.svg" alt="react-native" height="40" width="40" /></a>
 <a href="https://angular.io/" target="blank"><img align="center" src="./github_images/svg/angular.svg" alt="angular" height="40" width="40" /></a>
