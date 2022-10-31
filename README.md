@@ -23,9 +23,9 @@
 <p align="left">
 <a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="./github_images/svg/html.svg" alt="html" height="40" width="40" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="./github_images/svg/css3.svg" alt="css" height="40" width="40" /></a>
-<a href="https://getbootstrap.com/" target="blank"><img align="center" src="./github_images/" alt="bootstrap" height="40" width="40" /></a>
-<a href="https://git-scm.com/" target="blank"><img align="center" src="./github_images/" alt="git" height="40" width="40" /></a>
-<a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="./github_images/" alt="laravel" height="40" width="40" /></a>
+<a href="https://getbootstrap.com/" target="blank"><img align="center" src="./github_images/svg/bootstrap.svg" alt="bootstrap" height="40" width="40" /></a>
+<a href="https://git-scm.com/" target="blank"><img align="center" src="./github_images/svg/git.svg" alt="git" height="40" width="40" /></a>
+<a href="https://laravel.com/docs/9.x" target="blank"><img align="center" src="./github_images/laravel.svg" alt="laravel" height="40" width="40" /></a>
 <a href="https://www.gimp.org/docs/" target="blank"><img align="center" src="./github_images/" alt="gimp" height="40" width="40" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="blank"><img align="center" src="./github_images/" alt="javascript" height="40" width="40" /></a>
 <a href="https://reactjs.org" target="blank"><img align="center" src="./github_images/" alt="reactjs" height="40" width="40" /></a>
