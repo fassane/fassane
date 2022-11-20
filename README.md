@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="./github_images/coding.png" alt="HeaderImage" /> </h1>
 
 <h1 align="center">Hi 👋, I’m Hassan</h1>
-<h3 align="center">A junior Full-Stack developer</h3>
+<h3 align="center">A Full-Stack developer</h3>
 
 <hr/>
 
