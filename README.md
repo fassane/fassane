@@ -5,7 +5,7 @@
 
 <hr/>
 
-- I’m currently 🌱 learning **Angular**, **Spring boot**.
+- I’m currently 🌱 learning **Spring boot**.
 
 - I’m interested 👀 by **React**, **React native**, **Laravel**.
 
