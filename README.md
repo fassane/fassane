@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="./github_images/coding.png" alt="HeaderImage" /> </h1>
 
 <h1 align="center">Hi 👋, I’m Hassan</h1>
-<h3 align="center">A Full-Stack developer</h3>
+<h3 align="center">A junior Full-Stack developer</h3>
 
 <hr/>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Social networks:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bolly-hassan-917581224/" target="blank"><img align="center" src="./github_images/svg/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/franck-assane-bolly-917581224/" target="blank"><img align="center" src="./github_images/svg/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="" target="blank"><img align="center" src="./github_images/svg/discord.svg" alt="discord" height="40" width="40" /></a> 
 </p>
 
