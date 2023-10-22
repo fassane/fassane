@@ -13,14 +13,10 @@
 
 - How 📫 to reach me on fassanebolly@gmail.com.
 
-<h3 align="left">Social networks:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/franck-assane-bolly-917581224/" target="blank"><img align="center" src="./github_images/svg/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="" target="blank"><img align="center" src="./github_images/svg/discord.svg" alt="discord" height="40" width="40" /></a> 
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a href="https://developer.android.com/" target="blank"><img align="center" src="./github_images/svg/android.svg" alt="android-studio" height="40" width="40" /></a>
+<a href="https://ubuntu.com/" target="blank"><img align="center" src="./github_images/svg/linux.svg" alt="linux" height="40" width="40" /></a>
 <a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="./github_images/svg/html.svg" alt="html" height="40" width="40" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="./github_images/svg/css3.svg" alt="css" height="40" width="40" /></a>
 <a href="https://getbootstrap.com/" target="blank"><img align="center" src="./github_images/svg/bootstrap.svg" alt="bootstrap" height="40" width="40" /></a>
@@ -35,8 +31,7 @@
 <a href="https://wordpress.com/fr/" target="blank"><img align="center" src="./github_images/svg/wordpress.svg" alt="wordpress" height="40" width="40" /></a>
 <a href="https://docs.oracle.com/en/java/" target="blank"><img align="center" src="./github_images/svg/java.svg" alt="java" height="40" width="40" /></a>
 <a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="./github_images/svg/spring-boot.svg" alt="springboot" height="40" width="40" /></a>
-<a href="https://developer.android.com/" target="blank"><img align="center" src="./github_images/svg/android.svg" alt="android-studio" height="40" width="40" /></a>
-<a href="https://ubuntu.com/" target="blank"><img align="center" src="./github_images/svg/linux.svg" alt="linux" height="40" width="40" /></a>
+</p>
   
 
 <!---
