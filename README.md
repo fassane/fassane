@@ -15,8 +15,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a href="https://linux.org/" target="blank"><img align="center" src="./github_images/svg/linux.svg" alt="linux" height="40" width="40" /></a>
 <a href="https://developer.android.com/" target="blank"><img align="center" src="./github_images/svg/android.svg" alt="android-studio" height="40" width="40" /></a>
-<a href="https://ubuntu.com/" target="blank"><img align="center" src="./github_images/svg/linux.svg" alt="linux" height="40" width="40" /></a>
 <a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="./github_images/svg/html.svg" alt="html" height="40" width="40" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="./github_images/svg/css3.svg" alt="css" height="40" width="40" /></a>
 <a href="https://getbootstrap.com/" target="blank"><img align="center" src="./github_images/svg/bootstrap.svg" alt="bootstrap" height="40" width="40" /></a>
